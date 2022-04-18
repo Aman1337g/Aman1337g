@@ -63,7 +63,7 @@
 ## 🙋‍ Connect with me:
 
 <p align="center">
-<a href="#"><img src = "https://badges.pufler.dev/visits/Aman1337d/Aman1337d" height = 30px></a>
+<a href="#"><img src = "https://badges.pufler.dev/visits/Aman1337g/Aman1337g" height = 30px></a>
 <a href="mailto:aman65144kumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href = "https://www.linkedin.com/in/aman-gupta-b03906227/" target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "https://www.instagram.com/aman_65144/" target= "_blank"><img src="https://img.shields.io/badge/aman_65144-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
