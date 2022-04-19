@@ -71,3 +71,7 @@
 <a href="https://twitter.com/AmanKum67036100" target= "_blank"><img src="https://img.shields.io/badge/AmanKum67036100-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 </p>
+
+Watch my contribution graph being eaten by a Snake! 🐍
+
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/Aman1337g/Aman1337g/master/soc/snake.svg)
