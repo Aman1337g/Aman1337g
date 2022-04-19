@@ -10,8 +10,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/FunnyJoker65144">
-    <img  alt="Aman-Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FunnyJoker65144&theme=highcontrast&hide_border=true"/>
+  <a href="https://github.com/Aman1337g">
+    <img  alt="Aman-Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman1337g&theme=highcontrast&hide_border=true"/>
   </a>
   
 </p>
@@ -45,8 +45,8 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/FunnyJoker65144"><img align="center" alt="Aman-Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=FunnyJoker65144&show_icons=true&count_private=true&theme=highcontrast&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/FunnyJoker65144"><img align="center" height="192px" alt="Aman-Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunnyJoker65144&langs_count=20&layout=compact&theme=highcontrast&hide_border=true" /></a>
+    <a href="https://github.com/Aman1337g"><img align="center" alt="Aman-Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Aman1337g&show_icons=true&count_private=true&theme=highcontrast&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/Aman1337g"><img align="center" height="192px" alt="Aman-Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman1337g&langs_count=20&layout=compact&theme=highcontrast&hide_border=true" /></a>
   <br/>
   </p>
  
@@ -55,7 +55,7 @@
 <!--Contribution Graph-->
 </br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=FunnyJoker65144&bg_color=000000&color=F8D866&line=39FF14&area_color=39FF14&point=FFFFFF&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Aman1337g&bg_color=000000&color=F8D866&line=39FF14&area_color=39FF14&point=FFFFFF&hide_border=true&area=true)
 
 </br>
 
@@ -67,7 +67,7 @@
 <a href="mailto:aman65144kumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href = "https://www.linkedin.com/in/aman-gupta-b03906227/" target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "https://www.instagram.com/aman_65144/" target= "_blank"><img src="https://img.shields.io/badge/aman_65144-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href ="https://github.com/FunnyJoker65144"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href ="https://github.com/Aman1337g"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://twitter.com/AmanKum67036100" target= "_blank"><img src="https://img.shields.io/badge/AmanKum67036100-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 </p>
