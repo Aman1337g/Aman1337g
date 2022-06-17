@@ -75,7 +75,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman1337g" alt="aman1337g" /></a> </p>
 
+
 #### Watch my contribution graph get eaten by the snake 🐍
 
 
 ![snake gif](https://github.com/Aman1337g/Aman1337g/blob/output/github-contribution-grid-snake.gif)
+
