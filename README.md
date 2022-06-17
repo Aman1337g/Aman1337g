@@ -23,7 +23,7 @@
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
-  <!-- <img src="https://img.icons8.com/plasticine/52/000000/bash.png" alt="Bash"/> -->
+  <img src="https://img.icons8.com/plasticine/52/000000/bash.png" alt="Bash"/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript"/></a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> </a> 
@@ -34,7 +34,6 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <!--<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/> -->
 </p>
-
 
 </br>
 
@@ -69,9 +68,12 @@
 <a href = "https://www.linkedin.com/in/aman-gupta-b03906227/" target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "https://www.instagram.com/aman_65144/" target= "_blank"><img src="https://img.shields.io/badge/aman_65144-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href ="https://github.com/Aman1337g"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://twitter.com/AmanKum67036100" target= "_blank"><img src="https://img.shields.io/badge/AmanKum67036100-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/AmanKum67036100" target= "_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
 
 </p>
 
-### Watch my contribution graph get eaten by the snake 🐍
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman1337g" alt="aman1337g" /></a> </p>
+
+#### Watch my contribution graph get eaten by the snake 🐍
+
 ![snake gif](https://github.com/Aman1337g/Aman1337g/blob/output/github-contribution-grid-snake.gif)
