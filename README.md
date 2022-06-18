@@ -52,7 +52,7 @@
 #### Watch my contribution graph get eaten by the snake 🐍
 
 
-![snake gif](https://github.com/Aman1337g/Aman1337g/blob/output/github-contribution-grid-snake.gif)
+![amankumargupta snake gif](https://github.com/Aman1337g/Aman1337g/blob/output/github-contribution-grid-snake.gif)
 
 
 <!-- Languages and tools To be Added Later -->
