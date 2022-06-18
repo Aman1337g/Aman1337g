@@ -20,7 +20,7 @@
 }
 ```
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aman1337g" alt="aman1337g" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aman1337g" alt="Aman1337g" /></a> </p>
 
 
 <!-- GitHub Readme Streak Stats-->
