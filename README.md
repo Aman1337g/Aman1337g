@@ -30,7 +30,7 @@
     <td colspan="2" align="center"><img  alt="Aman-Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://activity-graph.herokuapp.com/graph?username=Aman1337g&theme=xcode&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph"></td>
+    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aman1337g&theme=xcode"></td>
   </tr>
   <tr>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
