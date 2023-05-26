@@ -14,12 +14,12 @@
 ```py
 {
     name: 'Aman Kumar Gupta',
-    education: '2nd year CSE undergrad at IIIT Bhubaneswar, India',
+    education: '3rd year CSE undergrad at IIIT Bhubaneswar, India',
     currentlyWorkingOn: 'Full stack Web and Blockchain development',
 }
 ```
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aman1337g" alt="Aman1337g" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aman1337g&row=1" alt="Aman1337g" /></a> </p>
 
 
 <!-- GitHub Readme Streak Stats-->
@@ -29,7 +29,7 @@
     <td colspan="2" align="center"><img  alt="Aman-Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aman1337g&theme=xcode"></td>
+    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman1337g&theme=xcode"></td>
   </tr>
   <tr>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
