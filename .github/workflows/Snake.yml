@@ -26,6 +26,8 @@ jobs:
           github_user_name: Aman1337g
           outputs: |
             dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4
