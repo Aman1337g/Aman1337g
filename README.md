@@ -14,7 +14,7 @@
 ```py
 {
     name: 'Aman Kumar Gupta',
-    education: '3rd year CSE undergrad at IIIT Bhubaneswar, India',
+    education: '4th year CSE undergrad at IIIT Bhubaneswar, India',
     currentlyWorkingOn: 'Full stack Web and Blockchain development',
 }
 ```
