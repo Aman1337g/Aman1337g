@@ -8,14 +8,14 @@
 <!--social-->
 <!-- ## 🙋‍ Connect with me: -->
 <p align="center">
-<!-- <a href="https://github.com/Aman1337g"><img src = "https://badges.pufler.dev/visits/Aman1337g/Aman1337g" height = 30px> --><img src = "https://visits.dashroshan.com/Aman1337g?label=VISITS&shadow=1&shadowOpacity=30&swap=0&labelBGColor=484848&countBGColor=1CA2F1&labelTextColor=FFFFFF&countTextColor=FFFFFF" height = 30px> <a href="https://aman1337g.vercel.app/"><img src = "https://img.shields.io/badge/Website-Page?style=flat&color=1CA2F1&logo=alibabacloud&logoColor=white" height = 30px></a> <a href="https://twitter.com/Aman1337g"><img src = "https://img.shields.io/badge/Twitter-Page?style=flat&logo=twitter&logoColor=white&color=1CA2F1" height = 30px></a> <a href="https://www.linkedin.com/in/aman-gupta-b03906227/"><img src = "https://img.shields.io/badge/LinkedIn-Page?style=flat&logo=linkedin&logoColor=white&color=0E76A8" height = 30px></a> <a href="https://discordapp.com/users/921998155476774922"><img src = "https://img.shields.io/badge/Discord-Page?style=flat&logo=discord&logoColor=white&color=4169E1" height = 30px></a><!-- <a href="https://www.instagram.com/aman_65144/"><img src = "https://img.shields.io/badge/Instagram-Page?style=flat&logo=instagram&logoColor=white&color=DD2A7B" height = 30px></a> --><!--   <a href="https://www.hackerrank.com/Aman1337g"><img src = "https://img.shields.io/badge/HackerRank-Page?style=flat&logo=hackerrank&logoColor=white&color=1ba94c" height = 30px></a> --> 
+<a href="https://github.com/Aman1337g"><img src = "https://badges.pufler.dev/visits/Aman1337g/Aman1337g" height = 30px></a> <a href="https://aman1337g.vercel.app/"><img src = "https://img.shields.io/badge/Website-Page?style=flat&color=1CA2F1&logo=alibabacloud&logoColor=white" height = 30px></a> <a href="https://twitter.com/Aman1337g"><img src = "https://img.shields.io/badge/Twitter-Page?style=flat&logo=twitter&logoColor=white&color=1CA2F1" height = 30px></a> <a href="https://www.linkedin.com/in/aman-gupta-b03906227/"><img src = "https://img.shields.io/badge/LinkedIn-Page?style=flat&logo=linkedin&logoColor=white&color=0E76A8" height = 30px></a> <a href="https://discordapp.com/users/921998155476774922"><img src = "https://img.shields.io/badge/Discord-Page?style=flat&logo=discord&logoColor=white&color=4169E1" height = 30px></a><!-- <a href="https://www.instagram.com/aman_65144/"><img src = "https://img.shields.io/badge/Instagram-Page?style=flat&logo=instagram&logoColor=white&color=DD2A7B" height = 30px></a> --><!--   <a href="https://www.hackerrank.com/Aman1337g"><img src = "https://img.shields.io/badge/HackerRank-Page?style=flat&logo=hackerrank&logoColor=white&color=1ba94c" height = 30px></a> 
 </p>
 
 ```py
 {
     name: 'Aman Kumar Gupta',
     education: '4th year CSE undergrad at IIIT Bhubaneswar, India',
-    currentlyWorkingOn: 'Full stack Web and Blockchain development',
+    currentlyWorkingOn: 'Full stack Web and DevOps',
 }
 ```
 
@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><img src="https://github.com/Aman1337g/Aman1337g/blob/output/github-contribution-grid-snake.svg"/></td>
