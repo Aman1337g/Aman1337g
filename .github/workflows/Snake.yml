@@ -1,25 +1,30 @@
-name: generate animation
+name: Generate Snake Animation
 
 on:
   # Run automatically every 6 hours
   schedule:
     - cron: "0 */6 * * *"
-  
-  # Allow manual runs
+
+  # Allow manual trigger
   workflow_dispatch:
-  
-  # Run on every push to the main branch
+
+  # Run on push to main branch
   push:
     branches:
       - main
-    
+
+permissions:
+  contents: write  # Required to push to the output branch
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
-     
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -29,7 +34,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push github-contribution-grid-snake.svg to the output branch
+      - name: Push github-contribution-grid-snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
