@@ -29,7 +29,7 @@
 <!--     <td colspan="2" align="center"><img  alt="Aman-Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact"/></td> -->
          <td colspan="2" align="center">
     <a href="https://git.io/streak-stats">
-        <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Aman1337g">
+        <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Aman1337g&theme=dark">
     </a>
 </td>
 
