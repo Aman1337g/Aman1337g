@@ -13,14 +13,14 @@
 
 ```py
 {
-    name: 'Aman Kumar Gupta',
-    education: '4th year CSE undergrad at IIIT Bhubaneswar, India',
-    currentlyWorkingOn: 'Full stack Web and DevOps',
+    "name"      :  "Aman Kumar Gupta",
+    "degree"    :  "B.Tech CSE  ·  IIIT Bhubaneswar, India",
+    "focus"     :  [ "Full Stack Web", "DevOps" ],
+    "status"    :  "always building  →  open to opportunities"
 }
 ```
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aman1337g&column=-1" alt="Aman1337g" /></a> </p>
-
 
 <!-- GitHub Readme Streak Stats-->
 <!-- ## 🔥 Streak stats -->
@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center"/>
-    
+
 | Language and Suite | Product and Framework |
 | :---: | :---: |
 | <img src = "https://img.shields.io/badge/Language-Page?style=flat&color=008bb9" height = 30px> | <img src = "https://img.icons8.com/color/60/000000/python--v1.png" height = 60px> <img src = "https://img.icons8.com/color/60/000000/javascript--v1.png" height = 60px> <img src = "https://img.icons8.com/color/60/000000/c-programming.png" height = 60px> <img src = "https://img.icons8.com/color/60/000000/c-plus-plus-logo.png" height = 60px> <img src = "https://img.icons8.com/color/60/000000/solidity.png" height = 60px> |
