@@ -38,8 +38,8 @@
     <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman1337g&theme=xcode"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10"/></td>
+    <td align="center"><img src="https://github.com/Aman1337g/Aman1337g/blob/main/profile/stats.svg"/></td>
+    <td align="center"><img src="https://github.com/Aman1337g/Aman1337g/blob/main/profile/top-langs.svg"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
