@@ -42,7 +42,13 @@
     <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10"/></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github.com/Aman1337g/Aman1337g/blob/output/github-contribution-grid-snake.svg"/></td>
+    <td colspan="2" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aman1337g/Aman1337g/blob/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/Aman1337g/Aman1337g/blob/output/github-contribution-grid-snake.svg" />
+        <img src="https://github.com/Aman1337g/Aman1337g/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+      </picture>
+    </td>
   </tr>
   <tr>
     <td colspan="2" align="center"/>
