@@ -35,6 +35,22 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate stats card (light)
+        uses: readme-tools/github-readme-stats-action@27f3601ffd7302c6ffaefb472ba8383d2a296e3f
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=default&locale=en&layout=compact
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (light)
+        uses: readme-tools/github-readme-stats-action@27f3601ffd7302c6ffaefb472ba8383d2a296e3f
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=default&show_icons=true
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate pin card
         uses: readme-tools/github-readme-stats-action@27f3601ffd7302c6ffaefb472ba8383d2a296e3f
         with:

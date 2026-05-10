@@ -29,7 +29,7 @@ jobs:
           github_user_name: Aman1337g
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_dots=#2d333b,#116a32,#1a8a3a,#26b64e,#3dd96a&color_snake=#3dd96a
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

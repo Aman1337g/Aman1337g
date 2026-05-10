@@ -29,17 +29,39 @@
 <!--     <td colspan="2" align="center"><img  alt="Aman-Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact"/></td> -->
          <td colspan="2" align="center">
     <a href="https://git.io/streak-stats">
-        <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Aman1337g&theme=dark">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Aman1337g&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Aman1337g&theme=default" />
+        <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Aman1337g&theme=dark" />
+      </picture>
     </a>
 </td>
 
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman1337g&theme=xcode"></td>
+    <td colspan="2" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aman1337g&theme=xcode" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aman1337g&theme=github-light" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman1337g&theme=xcode" />
+      </picture>
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/Aman1337g/Aman1337g/blob/main/profile/stats.svg"/></td>
-    <td align="center"><img src="https://github.com/Aman1337g/Aman1337g/blob/main/profile/top-langs.svg"/></td>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aman1337g/Aman1337g/blob/main/profile/stats.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/Aman1337g/Aman1337g/blob/main/profile/stats-light.svg" />
+        <img src="https://github.com/Aman1337g/Aman1337g/blob/main/profile/stats.svg" />
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Aman1337g/Aman1337g/blob/main/profile/top-langs.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/Aman1337g/Aman1337g/blob/main/profile/top-langs-light.svg" />
+        <img src="https://github.com/Aman1337g/Aman1337g/blob/main/profile/top-langs.svg" />
+      </picture>
+    </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
