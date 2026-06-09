@@ -17,10 +17,10 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca
+        uses: stats-organization/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca # v2.0.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&locale=en&layout=compact
@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca
+        uses: stats-organization/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca # v2.0.0
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=dark&show_icons=true
@@ -36,7 +36,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats card (light)
-        uses: readme-tools/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca
+        uses: stats-organization/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca # v2.0.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=default&locale=en&layout=compact
@@ -44,7 +44,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card (light)
-        uses: readme-tools/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca
+        uses: stats-organization/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca # v2.0.0
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=default&show_icons=true
@@ -52,17 +52,18 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card
-        uses: readme-tools/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca
+        uses: stats-organization/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca # v2.0.0
         with:
           card: pin
-          options: username=readme-tools&repo=github-readme-stats
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          options: username=stats-organization&repo=github-readme-stats
+          path: profile/pin-stats-organization-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
-        uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9
+        uses: stefanzweifel/git-auto-commit-action@04702edda442b2e678b25b537cec683a1493fcb9 # v7.1.0
         with:
-          commit_message: "Update README cards"
+          commit_message: "chore: update README cards"
           file_pattern: profile/*.svg
           commit_user_name: github-actions[bot]
           commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
