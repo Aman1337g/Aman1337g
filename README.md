@@ -24,10 +24,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/Aman1337g/Aman1337g/main/profile/trophy.svg" />
+            srcset="https://github.com/Aman1337g/Aman1337g/blob/main/profile/trophy.svg" />
     <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/Aman1337g/Aman1337g/main/profile/trophy.svg" />
-    <img alt="GitHub Trophies" src="https://raw.githubusercontent.com/Aman1337g/Aman1337g/main/profile/trophy.svg" />
+            srcset="https://github.com/Aman1337g/Aman1337g/blob/main/profile/trophy.svg" />
+    <img alt="GitHub Trophies" src="https://github.com/Aman1337g/Aman1337g/blob/main/profile/trophy.svg" />
   </picture>
 </p>
 
