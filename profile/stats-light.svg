@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Aman Kumar Gupta's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 57, Total Commits  (last year) : 178, Total PRs: 35, Total Issues: 31, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 57, Total Commits  (last year) : 187, Total PRs: 35, Total Issues: 31, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 125.42075203030082;
+        stroke-dashoffset: 124.79055559573176;
       }
     }
   
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >178</text>
+      >187</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
