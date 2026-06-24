@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
 
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca # v2.0.0
+        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&locale=en&layout=compact
@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca # v2.0.0
+        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=dark&show_icons=true
@@ -36,7 +36,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats card (light)
-        uses: stats-organization/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca # v2.0.0
+        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=default&locale=en&layout=compact
@@ -44,7 +44,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card (light)
-        uses: stats-organization/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca # v2.0.0
+        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=default&show_icons=true
@@ -52,7 +52,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card
-        uses: stats-organization/github-readme-stats-action@8614f3a61601854731381d853f8566867754a5ca # v2.0.0
+        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
         with:
           card: pin
           options: username=stats-organization&repo=github-readme-stats
