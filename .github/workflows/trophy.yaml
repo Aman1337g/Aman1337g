@@ -21,11 +21,12 @@ jobs:
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: Generate trophy SVG
-        uses: Erik-Donath/github-profile-trophy@eb0893b31de06841663555d10aa43eb7cf27952f # feature/generate-svg
-        with:
-          username: ${{ github.repository_owner }}
-          file: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          REPO_OWNER: ${{ github.repository_owner }}
+        run: |
+          curl -fsSL \
+            "https://github-profile-trophy.vercel.app/?username=${REPO_OWNER}&no-frame=true&margin-w=10" \
+            -o profile/trophy.svg
 
       - name: Commit trophy SVG
         uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d # v7.2.0
